@@ -1,0 +1,11 @@
+dist/
+.vercel/
+node_modules/
+data/
+backups/
+.env
+test-results/
+.npm-cache/
+
+.vercel
+.env*

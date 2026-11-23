@@ -1,0 +1,14 @@
+node_modules
+.npm-cache
+.git
+.env*
+data
+backups
+test-results
+tests
+docs
+dist
+preview.jpg
+.agents
+.codex
+.aws
